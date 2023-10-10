@@ -62,5 +62,7 @@
 	</dict>
 </array>
 <!-- End of the Google Sign-in Section -->
+<key>NSPhotoLibraryUsageDescription</key>
+<string>Pretend i just explained why we need this.</string>
 </dict>
 </plist>
